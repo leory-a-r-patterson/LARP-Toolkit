@@ -7,6 +7,9 @@
 ### Welcome to the Future of Algorithmic Hyperrealism 🚀
 
 The **LARP Toolkit** is a quantum-adaptive, AI-enhanced runtime framework built to synergize poly-nodal algorithmic paradigms within a dynamically scaffolded runtime environment. Our proprietary hypergraph-based system accelerates computational throughput by leveraging stateful microkernel injections and a fractalized machine-learning backbone.
+Dev: https://www.linkedin.com/in/leory-a-r-patterson-8a91b6346/
+Twitter:https://x.com/Leory_A_R_Patt
+
 
 ---
 
